@@ -1,0 +1,49 @@
+# Xcode generic cruft
+xcuserdata/
+xcshareddata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+
+# build products
+build/
+DerivedData/
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Packages/
+
+# CocoaPods 
+Pods/
+Podfile.lock
+
+# Carthage (just in case)
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# macOS system trash
+.DS_Store
+
+# Xcode 15 new workspace cache
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+*.xcworkspace/xcuserdata/
+
+# User-specific settings
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Logs
+*.log
+
+# App bundles created by Release builds (prevent accidental commit)
+*.app
+*.dSYM
+
