@@ -60,7 +60,7 @@ So this app gives you the nuclear alternative:
 ## 🤬 Why this exists
 
 Because HDMI audio is delusional.  
-Because monitors claim to be speakers when everyone knows they are, in fact, shit.
+Because monitors claim to be speakers when everyone knows they are, in fact, shit.  
 Because virtual devices multiply like bacteria.  
 Because macOS resurrects dead devices like a necromancer on drugs.  
 Because your audio menu shouldn’t look like a toxic waste dump.
